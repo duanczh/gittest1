@@ -4,3 +4,4 @@ hi world
 暂存空间：执行add  那么就进入暂存区
 本地代码库：commit -m 'xx'
 hahahahah
+master add 
